@@ -1,0 +1,23 @@
+{
+  "name": "aula_debug_node",
+  "version": "1.0.0",
+  "description": "Depurando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WallafOliveira/aula_debug_node.git"
+  },
+  "keywords": [],
+  "author": "Wallaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WallafOliveira/aula_debug_node/issues"
+  },
+  "homepage": "https://github.com/WallafOliveira/aula_debug_node#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
