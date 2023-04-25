@@ -11,7 +11,7 @@ let idade =  parseInt(idadeTxt);
 
 let resposta = 'n'
 if(idade <15) { 
-    resposta = entrada('Acredito que você esteja no fundamental .\nEstou Certo? (s/n)');
+    resposta = entrada('Acredito que você esteja no fundamental .\nEstou Certo? (s/n) ');
 }
 else if( idade >= 15  && idade <= 18){
     resposta = entrada('Acredito que voce esteja cursando o ensino medio. \nEstou Certo? (s/n)')
