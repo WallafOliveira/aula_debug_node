@@ -25,6 +25,8 @@ else{
     resposta = entrada ('Acredito que voce já tenha terminado o ensino medio. \nEstou Certo? (s/n) ')
 }
 
+resposta = resposta.toLocaleLowerCase()
+
 if (resposta === 'n') {
     console.log('Ok, eu não sei de tudo...Ainda pelo menos');
 }
